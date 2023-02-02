@@ -1,5 +1,5 @@
 > # Hi everyone 👋
-## **`Metallurgical and Materials Engineer (who wants to change his department as Software Developer or Programmer)`**
+## **`Engineer and Software Developer`**
 
 ![Bio](Images/Bio.png)
 
