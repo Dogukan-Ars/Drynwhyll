@@ -1,13 +1,17 @@
 # **`Engineer & Front-End Developer`**
-Hi I'm Dogukan from Turkey. I was a metallurgical and materials engineer. I quit my job cause coding fits me more than metallurgical engineering, and I decided to become a software developer. So I have been working on coding since August ✌️ However, I'm a hard worker, eager, and curious person. Therefore I'm open to learning something new in my life. Especially to learn how to convert things into code. Because I enjoy when I am writing code or solving problems. I like to think about ways of solutions. Sometimes I couldn't find the solution and researched for days. Yet, that sense of accomplishment makes me feel great when I find it. That's one of the things why I like to code 😊
+Hi, I'm Dogukan from Turkey. I used to be a metallurgical and materials engineer, but I quit my job cause coding stole my heart, and I decided to become a software developer. I have been working on coding for more than a year, and it's been an exciting ride, so I can't get enough of it ✌️ I'm an eager and curious person by nature, and coding lets me explore new ideas and ways to solve problems. Sure, sometimes I get stuck and have to research for days. Yet, that moment when I finally crack the code? That's pure satisfaction and makes me feel great 😊
+<br>
+I'm always open to learning something new and improving myself about everything. Therefore I'm all about embracing challenges and pushing my limits to grow. Also, my curiosity is never satisfied, so if there is fresh knowledge, I'll learn and use it.
+<br>
+So, that's a bit about me and my journey in coding. I am thrilled to see where this path takes me next 😊
 <br>
 
 # Skills & Experience
-- 💻 Currently working on JavaScript projects with using API and frameworks to improve my skills _(not in any company)_.
+- 💻 Currently working on React projects using APIs and TypeScript to improve my skills _(not in any company)_.
 - 🌱 I’m currently learning: <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 - 👯 I’m looking to collaborate as a __Frontend Developer__.
 
-- 🎹 🎸 🎵  I like to play some enstrument such as piano, guitar and flute.
+- 🎹 🎸 🎵  I like to play instruments such as piano, guitar, and flute.
 <br>
 
 # Connect with me:
@@ -32,7 +36,7 @@ Hi I'm Dogukan from Turkey. I was a metallurgical and materials engineer. I quit
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-## I have just learned the basics of these when I was learning __Java__:
+## I learned the basics of these when I was learning __Java__:
 
 <p><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=drynwhyll&show_icons=true&locale=en&layout=compact" alt="drynwhyll" /></p>
