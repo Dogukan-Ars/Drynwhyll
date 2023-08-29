@@ -7,9 +7,9 @@ So, that's a bit about me and my journey in coding. I am thrilled to see where t
 <br>
 
 # Skills & Experience
-- 💻 Currently working on React projects using APIs and TypeScript to improve my skills _(not in any company)_.
-- 🌱 I’m currently learning: <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
-- 👯 I’m looking to collaborate as a __Frontend Developer__.
+- 💻 Currently working on React projects using APIs and TypeScript to improve my skills, and checking Unity projects for game development _(not in any company)_.
+- 🌱 I’m currently learning: <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" /> </a>
+- 👯 I’m looking to collaborate as a __Frontend Developer__ and __Game Developer__.
 
 - 🎹 🎸 🎵  I like to play instruments such as piano, guitar, and flute.
 <br>
